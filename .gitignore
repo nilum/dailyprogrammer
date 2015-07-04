@@ -41,3 +41,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+c221.ilk
+*.suo
+vc120.pdb
+*.pdb
