@@ -19,6 +19,6 @@ struct word
 };
 
 int charBufferToWords(char input[], word word[]);
-int getNewEndX (word* last, word* next, int flipped);
-int getNewEndY (word* last, word* next, int flipped);
+int getNewEndX (word* last, word* next, int flipped, char output[][MAXX]);
+int getNewEndY (word* last, word* next, int flipped, char output[][MAXX]);
 #endif

@@ -46,3 +46,5 @@ c221.ilk
 *.suo
 vc120.pdb
 *.pdb
+*.obj
+out.txt
