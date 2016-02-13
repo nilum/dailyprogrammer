@@ -11,6 +11,8 @@
 using namespace std;
 #define BUFFER 200
 
+// testing magit!
+
 #define MAXY 25
 
 int main ()
